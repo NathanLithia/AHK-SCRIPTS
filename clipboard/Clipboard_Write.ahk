@@ -1,0 +1,1 @@
+SendRaw, %Clipboard%
